@@ -49,10 +49,3 @@ FORMAT csv,
 HEADER true,
 DELIMITER ','
 );
-
-SELECT *
-FROM mentalhealth
-LIMIT 400;
-
-SELECT COUNT(*)
-FROM mentalhealth;
